@@ -1,7 +1,5 @@
 # Adding a node at the front of the list
-def push(self, new_data):
-# Adding a node at the front of the list
-def push(self, new_data):
+
 	# 1 & 2: Allocate the Node & Put in the data
 	new_node = Node(data=new_data)
 
