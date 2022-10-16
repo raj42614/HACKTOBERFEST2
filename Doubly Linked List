@@ -13,9 +13,7 @@
 	if self.head is not None:
 		self.head.prev = new_node
 
-	# 5. move the head to point to the new node
-	self.head = new_node
-
+	
 # This code is contributed by jatinreaper
 def push(self, new_data):
 
